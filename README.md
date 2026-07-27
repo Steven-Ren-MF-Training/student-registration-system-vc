@@ -1,4 +1,4 @@
-# Student Registration System
+# Student Registration System DEMO
 
 A front-end project created to practise HTML, CSS, and Git version control.
 
