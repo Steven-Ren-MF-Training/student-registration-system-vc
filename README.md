@@ -1,6 +1,6 @@
 # Student Registration System
 
-A simple web-based student registration system created using HTML and CSS.
+A front-end project created to practise HTML, CSS, and Git version control.
 
 ## Project Files
 
